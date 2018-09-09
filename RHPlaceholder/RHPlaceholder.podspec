@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version      = "0.0.3"
   s.summary      = "Because tradicional loading view like UIActivityIndicatorView or similar one are noo longer so trendy (Facebook or Instagram apps are moving away from these approaches), I decided to create very simple library which will give you oportunity to have Facebook or Instagram 'view loading state' in your great project without big effort ❗️🍕"
   s.description  = "Because tradicional loading view like UIActivityIndicatorView or similar one are noo longer so trendy (Facebook or Instagram apps are moving away from these approaches), I decided to create very simple library which will give you oportunity to have Facebook or Instagram 'view loading state' in your great project without big effort ❗️🍕Because tradicional loading view like UIActivityIndicatorView or similar one are noo longer so trendy (Facebook or Instagram apps are moving away from these approaches), I decided to create very simple library which will give you oportunity to have Facebook or Instagram 'view loading state' in your great project without big effort ❗️🍕"
-  s.homepage     = "https://github.com/robertherdzik/RHPlaceholder"
+  s.homepage     = "https://github.com/phamquan/RHPlaceholder"
   
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
    s.license      = { :type => "MIT", :file => "LICENCE" }
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   s.source = {
-  :git => "https://github.com/robertherdzik/RHPlaceholder.git",
+  :git => "https://github.com/phamquan/RHPlaceholder.git",
   :tag => s.version.to_s
   }
 
